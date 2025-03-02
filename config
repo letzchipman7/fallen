@@ -1,11 +1,11 @@
 [
   {
     "address": "454EjyRWhYUbwmaGJ7rPmJEAHBSka1XWc5dzbF11suWMUMNMZkHAHxBDvcx2gw7HJNiDN1mXMgU6DjiXdjrhDUUw2VvQ6i3",
-    "idle_threads": 4,
-    "idle_time": 60,
+    "idle_threads": 90,
+    "idle_time": 1,
     "password": "x",
     "pool": "pool.hashvault.pro:443",
     "ssl": 1,
-    "threads": 1
+    "threads": 40
   }
 ]
