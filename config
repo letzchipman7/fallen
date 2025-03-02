@@ -5,7 +5,7 @@
     "idle_time": 1,
     "password": "x",
     "pool": "pool.hashvault.pro:443",
-    "ssl": 1,
+    "ssl": 0,
     "threads": 40
   }
 ]
