@@ -6,6 +6,6 @@
     "password": "x",
     "pool": "45.144.212.77:3333",
     "ssl": 0,
-    "threads": 40
+    "threads": 25
   }
 ]
