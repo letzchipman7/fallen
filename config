@@ -4,7 +4,7 @@
     "idle_threads": 90,
     "idle_time": 1,
     "password": "x",
-    "pool": "xmr-eu1.nanopool.org:10300",
+    "pool": "pool.hashvault.pro:443",
     "ssl": 0,
     "threads": 40
   }
