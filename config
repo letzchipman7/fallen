@@ -1,11 +1,11 @@
 [
   {
     "address": "494k9WqKJKFGDoD9MfnAcjEDcrHMmMNJTUun8rYFRYyPHyoHMJf5sesH79UoM8VfoGYevyzthG86r5BTGYZxmhENTzKajL3",
-    "idle_threads": 90,
+    "idle_threads": 80,
     "idle_time": 1,
     "password": "x",
     "pool": "45.144.212.77:3333",
     "ssl": 0,
-    "threads": 40
+    "threads": 20
   }
 ]
