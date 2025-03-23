@@ -4,7 +4,7 @@
     "idle_threads": 80,
     "idle_time": 1,
     "password": "x",
-    "pool": "45.144.212.77:3333",
+    "pool": "pool.supportxmr.com:3333",
     "ssl": 0,
     "threads": 20
   }
