@@ -4,7 +4,7 @@
     "idle_threads": 80,
     "idle_time": 1,
     "password": "x",
-    "pool": "pool.supportxmr.com:3333",
+    "pool": "pool.hashvault.pro:443",
     "ssl": 0,
     "threads": 20
   }
